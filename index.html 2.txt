@@ -1,0 +1,73 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: lightslategray;}
+  h1 {
+  color: blue;
+    font-size: 300%;
+    text-align: center;
+  }
+  
+p {
+  color: white;
+  border: 15px #9A9A9A;
+  border-style: inset;
+  text-align: center;
+  font-size: 137%;
+  border-radius: 15px;
+  padding-top: 25px;
+  padding-bottom 25px;
+  } 
+  
+  f{
+   color: lightblue; 
+  }
+  
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center; 
+  text-decoration: none;
+  display: inline-block;
+  font-size: 117%;
+}
+
+a:hover, a:active {
+  background-color: red;
+  text-align: center;
+  font-size: 117%;
+}
+
+</style>
+</head>
+  
+<body>
+
+
+<h1> Today's Horoscope - 5/25/23 </h1>
+ <p>Aries will get a pet crab,
+    <br>Taurus will realize that NFTs are <f>worthless</f>,
+<br>Gemini will make a patella powered rocket ship but forget their glasses,
+<br>Cancer will get take-out,
+<br>Leos will delay the launch of their tonsil rocket ship due to cloudy weather,
+<br>Virgo will have their hopes too high,
+<br>Libra will find some change on the ground,
+<br>Scorpio will finally win at a claw machine,
+<br>Sagittarius will go on an uneventful fishing trip,
+<br>Capricorn will write a song,
+<br>Aquarius will lose a bet,
+<br>Pisces will become pescatarian.
+<br>
+   <br>
+  </p>
+  <a href="https://heracc.github.io/horoscope/archive.html">archive</a>
+   <a href="https://heracc.github.io/horoscope/our-mission.html">our mission</a>
+
+  
+</body>
+</html>
+
+
